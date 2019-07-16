@@ -12,7 +12,7 @@ This is an API created with NodeJS during [Rocketseat Bootcamp](https://rocketse
 Clone the repository 
 
 ```bash
-git clone https://github.com/giovanniantonaccio/gobarber
+git clone https://github.com/thiagofasano/nodejs-gobarber-api
 ```
 Install the following docker containers:
 ```bash
